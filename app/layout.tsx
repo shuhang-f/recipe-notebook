@@ -5,6 +5,7 @@ const title = 'Recipe Notebook';
 const description = 'A quiet place to keep the recipes you actually cook.';
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://shuhang-recipe-notebook.dudu-f.chatgpt.site'),
   title,
   description,
   openGraph: {
