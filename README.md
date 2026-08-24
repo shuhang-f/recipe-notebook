@@ -35,6 +35,9 @@ Start as a notepad, with just enough structure to make recipes easier to find an
 小火炖上一个小时（有条件1个半）
 煮个米饭
 
+烤红薯
+烤箱400F 45分钟 不需要预热
+
 这个汤咸度比较适中可以直接喝，肉偏淡但是很油 配米饭很爽
 
 
